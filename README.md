@@ -1,4 +1,6 @@
 # Python-Google-Translate
+
+[![Join the chat at https://gitter.im/agusmakmun/Python-Google-Translate](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/agusmakmun/Python-Google-Translate?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Python Google Translate by python.web.id
 
 <img src="http://python.web.id/wp-content/uploads/2015/02/Project-Google-Translate-1024x686.png" title="Project Python Google Translate" alt="Project Python Google Translate"/>
